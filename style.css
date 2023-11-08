@@ -1,4 +1,16 @@
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0D0D0D;
+}
+
 body {
-    background-color: #333333;
+    background-color: #404040;
     color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    width: 1000px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
 }
